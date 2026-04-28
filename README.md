@@ -23,11 +23,11 @@ This project develops a TinyML keyword spotter on the Arduino Nano 33 BLE Sense 
 
 ## Results
 
-| Model                               | Mean Squared Error (MSE)    | Mean Absolute Error (MAE)   | R² Score                    | 
+| Model                               | Train Acc    | Val Acc   | Test Acc                   | 
 |-------------------------------------|-----------------------------|-----------------------------|-----------------------------|
-| Linear Regression (LR)              | 0.176                       | 0.263                       | 0.790                       |
-| Support Vector Machine (SVM)        | 0.107                       | 0.156                       | 0.872                       |
-| Artificial Neural Network (ANN)     | 0.125                       | 0.194                       | 0.861                       |
+| Model A (Microfrontend-based Spectrogram)              | 0.000                       | 0.000                       | 0.000                       |
+| Model B (STFT-based Spectrogram)        | 0.000                       | 0.000                       | 0.000                       |
+
 
 ---
 
