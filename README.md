@@ -12,7 +12,7 @@ This project develops a TinyML keyword spotter on the Arduino Nano 33 BLE Sense 
 
 ## Contents
 
-| File                                                                                     | Description                                                 |
+| Folder                                                                                     | Description                                                 |
 |------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 | `embedded`                                 | All C/C++ code used to deploy model onto the embedded platform                      |
 | `final_model`                                    | Python notebook with ANN Model                              |
