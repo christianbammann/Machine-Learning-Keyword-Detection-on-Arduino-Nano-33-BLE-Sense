@@ -25,19 +25,6 @@ This project develops a TinyML keyword spotter on the Arduino Nano 33 BLE Sense 
 
 | Model                               | Train Acc    | Val Acc   | Test Acc                   | 
 |-------------------------------------|-----------------------------|-----------------------------|-----------------------------|
-| Model A (Microfrontend-based Spectrogram)              | 0.000                       | 0.000                       | 0.000                       |
-| Model B (STFT-based Spectrogram)        | 0.000                       | 0.000                       | 0.000                       |
+| Model A (Microfrontend-based Spectrogram)              | 73.31%                       | 87.95%                       | 89.41%                       |
+| Model B (STFT-based Spectrogram)        | 98.13%                       | 95.52%                       | 94.52%                       |
 
-
----
-
-## Analysis
-Placeholder
-
-## Key Insights
-Placeholder
-
----
-
-## Conclusion
-Placeholder
